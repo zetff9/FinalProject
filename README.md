@@ -3,6 +3,6 @@ My name is Zach Turner. I am a freshman studying Information Technology at the U
 Some of these include:
 
 - [Baseball](https://github.com/zetff9/FinalProject/blob/master/Baseball.md)
-- Football
+- [Football](https://github.com/zetff9/FinalProject/blob/master/Football.md)
 - Basketball
 - Video Games
