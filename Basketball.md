@@ -10,3 +10,17 @@ is a nightly occurrence. Led by one of the most efficient scorers in NBA history
 Rockets with the new addition of Russell Westbrook
 [and their supporting cast](https://www.espn.com/nba/team/roster/_/name/hou/houston-rockets) are looking to contend for an
 NBA Championship again this year.
+
+```
+{
+def main():
+    name = input('What is your name? ')
+    faveteam = input('What is your Favorite NBA team? ')
+    faveplayer = input('Who is your favorite NBA player? ')
+
+    print('My name is ' + name)
+    print('My favorite NBA team is the ' + faveteam)
+    print('My favorite NBA player is ' + faveplayer)
+main()
+}
+```
